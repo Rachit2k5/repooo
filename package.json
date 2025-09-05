@@ -10,9 +10,8 @@
   "scripts": {
     "start": "node server.js"
   },
-  "description": "",
-  "keywords": [],
-  "author": "",
+  "description": "Backend server for Civic Issue Reporting System",
+  "author": "Rachit verma",
   "license": "ISC",
   "type": "commonjs"
 }
